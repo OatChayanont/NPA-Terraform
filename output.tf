@@ -15,5 +15,5 @@ provider "aws" {
 ##################################################################################
 
 output "aws_instance_public_ip" {
-  value = aws_instance.testweb[0].public_ip
+  value = data.aws_availability_zones.available
 }

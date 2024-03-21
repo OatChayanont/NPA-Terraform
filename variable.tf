@@ -31,3 +31,7 @@ variable "availability_zone" {
     1:"us-east-1b"
     2:"us-east-1c"}
 }
+variable "availability_zone_count"{
+  type = number
+  default = 2
+}
