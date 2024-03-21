@@ -14,6 +14,6 @@ provider "aws" {
 # OUTPUT
 ##################################################################################
 
-output "aws_instance_public_ip" {
+output "aws_eiei" {
   value = data.aws_availability_zones.available
 }
