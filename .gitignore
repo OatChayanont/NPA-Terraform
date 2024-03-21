@@ -1,0 +1,6 @@
+
+*.0_x5
+*.hcl
+*.tfstate
+*.backup
+*.tfvarstest
