@@ -11,7 +11,7 @@ resource "aws_vpc" "testVPC" {
 
 # Create a new subnet2
 resource "aws_subnet" "Public"{
-  for_each = slice(data.aws_availability_zones.available.names, 0, var.availability_zone_count)
+  for_each = slice(data.aws_availability_zones.available.names, 0, (var.availability_zone_count))
   vpc_id = aws_vpc.testVPC.id
   # cidr_block = cidrsubnet(var.cidr_block,8,2)
   availability_zone = each.key
