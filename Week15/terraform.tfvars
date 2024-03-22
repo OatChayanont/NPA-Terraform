@@ -1,0 +1,9 @@
+aws_access_key="ASIAYS2NUZXUUZNFTEXX"
+aws_secret_key="TxaZj2b+ArnNPJ7Y7ps/qUN26WhgosHQTH46KHA2"
+aws_session_token="FwoGZXIvYXdzEDcaDNi/mkX8LIZ5De2XdSLFAQWOI8rm0EkV8rwjQzxRQfLtt9hp8abn3MqKbxdyxNPcy3GhqNTUGxEqG0s87+8rkGEeLt+9GT7xAmSX0TCUuazg8g/nqJyyqihTKF98m30+qG4Q8KyXwGKWfRwr1/eKnsH8BVudWxwb01OMMqkyeocciQK9HRHtAmgQ6/dti8hmVDkcLtWQ67srHAvcnjzfu1EesATMlnPn2tKLpGL/+I07lLA/Qxm+D7hYZ0o8rhH3AmHjhb3d2r9f9ipsweTVeuFXfLDnKNez9K8GMi30xkyudkPe5CgQJH68v3XLonSSIex+Q6P5nI/Q8qKGj6goHsG5U5ksCI47dwo="
+key_name = "vockey"
+itclass = "NPA2024"
+
+itgroup = "year3"
+
+cName = "itkmitl"
